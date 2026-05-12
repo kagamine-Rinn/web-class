@@ -1,0 +1,45 @@
+:root {
+  --color-1: #90A8C3;
+  --color-2: #4A6572;
+  --color-3: #2B2D42;
+  --color-4: #8D99AE;
+  --color-5: #000000;
+}
+body {
+  background: var(--color-4);
+}
+.main {
+  background: var(--color-2);
+  border-radius: 10px;
+  width: 300px;
+  max-height: 3000;
+  padding-top: 20px;
+  text-align: center;
+  padding: 10px;
+  padding-bottom: 5px;
+  margin-top: 150px;
+  margin-left: 40px;
+  border: 3px solid black;
+}
+#log {
+  background: var(--color-1);
+  width: 300px;
+  max-height: 300px;
+  border-radius: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+button {
+  background: var(--color-4);
+  width: 120px;
+  border-radius: 5px;
+}
+input {
+  background: ghostwhite;
+  width: 250px;
+  max-height: 100px;
+  padding: 5px;
+  border-radius: 5px;
+}
