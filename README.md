@@ -14,3 +14,15 @@ the coding for website the class in browser.
  • can 100+ member
 
  • free to give admin access 
+
+ • gallery
+
+ • absenteeism
+
+ • list all users
+
+ • title specials
+
+ • voting
+
+ • 
