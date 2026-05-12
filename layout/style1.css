@@ -1,2 +1,49 @@
-body {
+:root {
+  --color-1: #90A8C3;
+  --color-2: #4A6572;
+  --color-3: #2B2D42;
+  --color-4: #8D99AE;
+  --color-5: #000000;
 }
+body {
+  background: var(--color-4);
+}
+.main {
+  border-top: 4px solid var(--color-3);
+  border-left: 4px solid var(--color-3);
+  background: var(--color-2);
+  width: 350px;
+  padding-bottom: 30px;
+  text-align: center;
+  max-height: 3000px;
+  border-radius: 10px;
+  padding-top: 1px;
+  margin-top: 100px;
+  margin-left: 20px;
+  padding-bottom: 3px;
+}
+#log {
+  background: var(--color-1);
+  border-radius: 10px;
+  width: 300px;
+  margin-left: 25px;
+}
+input {
+  border-radius: 30px;
+  padding: 5px;
+  background: ghostwhite;
+  color: var(--color-3);
+  border-radius: 2px;
+}
+button {
+
+  width: 75px;
+
+background: var(--color-1);
+
+  border-radius: 15px;
+
+}
+#btn {
+    padding-top: 3px;
+    }
